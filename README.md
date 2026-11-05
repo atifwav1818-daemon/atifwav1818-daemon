@@ -4,7 +4,7 @@ I am a 20-year-old software development enthusiast currently pursuing my **B.Tec
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently studying **B.Tech CSE** at Babu Banarasi Das University, while simultaneously pursuing a **BS in CSDA** from IIT Patna.
+- 🎓 I'm currently studying **B.Tech CSE** at Babu Banarasi Das University.
 - 💻 My primary programming language and core focus is **C**. 
 - 🚀 I have a deep interest in coding, problem-solving, and currently expanding my knowledge in Data Structures and Algorithms (DSA) and Web Development.
 - 🌱 I’m continually working on strengthening my foundational programming logic and exploring API integration.
